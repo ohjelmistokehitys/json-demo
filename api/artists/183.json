@@ -1,5 +1,6 @@
 {
     "id": 183,
     "name": "Gustavo & Andres Veiga & Salazar",
-    "albums": []
+    "albums": [],
+    "license": "https://github.com/lerocha/chinook-database/blob/master/LICENSE.md"
 }

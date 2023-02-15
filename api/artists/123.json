@@ -1,5 +1,6 @@
 {
     "id": 123,
     "name": "R.E.M. Feat. KRS-One",
-    "albums": []
+    "albums": [],
+    "license": "https://github.com/lerocha/chinook-database/blob/master/LICENSE.md"
 }

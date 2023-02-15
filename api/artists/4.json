@@ -6,5 +6,6 @@
             "id": 6,
             "title": "Jagged Little Pill"
         }
-    ]
+    ],
+    "license": "https://github.com/lerocha/chinook-database/blob/master/LICENSE.md"
 }

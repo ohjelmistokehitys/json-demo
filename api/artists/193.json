@@ -1,5 +1,6 @@
 {
     "id": 193,
     "name": "Seu Jorge",
-    "albums": []
+    "albums": [],
+    "license": "https://github.com/lerocha/chinook-database/blob/master/LICENSE.md"
 }

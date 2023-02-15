@@ -1,5 +1,6 @@
 {
     "id": 66,
     "name": "Santana Feat. Eagle-Eye Cherry",
-    "albums": []
+    "albums": [],
+    "license": "https://github.com/lerocha/chinook-database/blob/master/LICENSE.md"
 }

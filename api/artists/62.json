@@ -1,5 +1,6 @@
 {
     "id": 62,
     "name": "Santana Feat. Rob Thomas",
-    "albums": []
+    "albums": [],
+    "license": "https://github.com/lerocha/chinook-database/blob/master/LICENSE.md"
 }

@@ -6,5 +6,6 @@
             "id": 206,
             "title": "Core"
         }
-    ]
+    ],
+    "license": "https://github.com/lerocha/chinook-database/blob/master/LICENSE.md"
 }

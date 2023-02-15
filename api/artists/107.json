@@ -1,5 +1,6 @@
 {
     "id": 107,
     "name": "Mot\u00f6rhead & Girlschool",
-    "albums": []
+    "albums": [],
+    "license": "https://github.com/lerocha/chinook-database/blob/master/LICENSE.md"
 }

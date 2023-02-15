@@ -1,5 +1,6 @@
 {
     "id": 191,
     "name": "Na\u00e7\u00e3o Zumbi",
-    "albums": []
+    "albums": [],
+    "license": "https://github.com/lerocha/chinook-database/blob/master/LICENSE.md"
 }

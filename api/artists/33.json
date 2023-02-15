@@ -1,5 +1,6 @@
 {
     "id": 33,
     "name": "Luiz Melodia",
-    "albums": []
+    "albums": [],
+    "license": "https://github.com/lerocha/chinook-database/blob/master/LICENSE.md"
 }

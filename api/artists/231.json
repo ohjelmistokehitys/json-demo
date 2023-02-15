@@ -6,5 +6,6 @@
             "id": 297,
             "title": "Bach: Toccata & Fugue in D Minor"
         }
-    ]
+    ],
+    "license": "https://github.com/lerocha/chinook-database/blob/master/LICENSE.md"
 }

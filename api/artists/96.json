@@ -6,5 +6,6 @@
             "id": 123,
             "title": "Jota Quest-1995"
         }
-    ]
+    ],
+    "license": "https://github.com/lerocha/chinook-database/blob/master/LICENSE.md"
 }

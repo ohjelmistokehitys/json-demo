@@ -1,5 +1,6 @@
 {
     "id": 165,
     "name": "Jackson Browne",
-    "albums": []
+    "albums": [],
+    "license": "https://github.com/lerocha/chinook-database/blob/master/LICENSE.md"
 }

@@ -86,5 +86,6 @@
             "id": 114,
             "title": "Virtual XI"
         }
-    ]
+    ],
+    "license": "https://github.com/lerocha/chinook-database/blob/master/LICENSE.md"
 }

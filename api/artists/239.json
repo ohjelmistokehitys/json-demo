@@ -1,5 +1,6 @@
 {
     "id": 239,
     "name": "Academy of St. Martin in the Fields, Sir Neville Marriner & William Bennett",
-    "albums": []
+    "albums": [],
+    "license": "https://github.com/lerocha/chinook-database/blob/master/LICENSE.md"
 }

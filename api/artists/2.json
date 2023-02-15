@@ -10,5 +10,6 @@
             "id": 3,
             "title": "Restless and Wild"
         }
-    ]
+    ],
+    "license": "https://github.com/lerocha/chinook-database/blob/master/LICENSE.md"
 }

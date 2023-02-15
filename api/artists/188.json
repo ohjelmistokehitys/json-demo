@@ -1,5 +1,6 @@
 {
     "id": 188,
     "name": "Mundo Livre S/A",
-    "albums": []
+    "albums": [],
+    "license": "https://github.com/lerocha/chinook-database/blob/master/LICENSE.md"
 }

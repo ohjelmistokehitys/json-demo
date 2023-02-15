@@ -1,5 +1,6 @@
 {
     "id": 174,
     "name": "The Postal Service",
-    "albums": []
+    "albums": [],
+    "license": "https://github.com/lerocha/chinook-database/blob/master/LICENSE.md"
 }

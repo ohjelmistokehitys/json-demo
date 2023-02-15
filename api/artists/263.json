@@ -6,5 +6,6 @@
             "id": 333,
             "title": "Purcell: Music for the Queen Mary"
         }
-    ]
+    ],
+    "license": "https://github.com/lerocha/chinook-database/blob/master/LICENSE.md"
 }

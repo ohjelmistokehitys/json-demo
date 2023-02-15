@@ -10,5 +10,6 @@
             "id": 225,
             "title": "Volume Dois"
         }
-    ]
+    ],
+    "license": "https://github.com/lerocha/chinook-database/blob/master/LICENSE.md"
 }

@@ -1,5 +1,6 @@
 {
     "id": 28,
     "name": "Jo\u00e3o Gilberto",
-    "albums": []
+    "albums": [],
+    "license": "https://github.com/lerocha/chinook-database/blob/master/LICENSE.md"
 }

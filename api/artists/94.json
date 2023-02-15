@@ -6,5 +6,6 @@
             "id": 120,
             "title": "Are You Experienced?"
         }
-    ]
+    ],
+    "license": "https://github.com/lerocha/chinook-database/blob/master/LICENSE.md"
 }

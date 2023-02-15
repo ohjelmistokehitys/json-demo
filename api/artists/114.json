@@ -26,5 +26,6 @@
             "id": 256,
             "title": "Speak of the Devil"
         }
-    ]
+    ],
+    "license": "https://github.com/lerocha/chinook-database/blob/master/LICENSE.md"
 }

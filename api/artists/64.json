@@ -1,5 +1,6 @@
 {
     "id": 64,
     "name": "Santana Feat. The Project G&B",
-    "albums": []
+    "albums": [],
+    "license": "https://github.com/lerocha/chinook-database/blob/master/LICENSE.md"
 }

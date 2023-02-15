@@ -1,5 +1,6 @@
 {
     "id": 192,
     "name": "DJ Dolores & Orchestra Santa Massa",
-    "albums": []
+    "albums": [],
+    "license": "https://github.com/lerocha/chinook-database/blob/master/LICENSE.md"
 }

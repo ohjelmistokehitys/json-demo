@@ -6,5 +6,6 @@
             "id": 42,
             "title": "Minha Hist\u00f3ria"
         }
-    ]
+    ],
+    "license": "https://github.com/lerocha/chinook-database/blob/master/LICENSE.md"
 }

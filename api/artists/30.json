@@ -1,5 +1,6 @@
 {
     "id": 30,
     "name": "Jorge Vercilo",
-    "albums": []
+    "albums": [],
+    "license": "https://github.com/lerocha/chinook-database/blob/master/LICENSE.md"
 }

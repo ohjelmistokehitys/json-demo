@@ -18,5 +18,6 @@
             "id": 53,
             "title": "Vozes do MPB"
         }
-    ]
+    ],
+    "license": "https://github.com/lerocha/chinook-database/blob/master/LICENSE.md"
 }

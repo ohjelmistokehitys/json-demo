@@ -1,5 +1,6 @@
 {
     "id": 176,
     "name": "The Flaming Lips",
-    "albums": []
+    "albums": [],
+    "license": "https://github.com/lerocha/chinook-database/blob/master/LICENSE.md"
 }

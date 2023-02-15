@@ -18,5 +18,6 @@
             "id": 77,
             "title": "The Real Thing"
         }
-    ]
+    ],
+    "license": "https://github.com/lerocha/chinook-database/blob/master/LICENSE.md"
 }

@@ -1,5 +1,6 @@
 {
     "id": 38,
     "name": "Banda Black Rio",
-    "albums": []
+    "albums": [],
+    "license": "https://github.com/lerocha/chinook-database/blob/master/LICENSE.md"
 }

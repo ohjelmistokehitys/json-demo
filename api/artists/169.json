@@ -1,5 +1,6 @@
 {
     "id": 169,
     "name": "Black Eyed Peas",
-    "albums": []
+    "albums": [],
+    "license": "https://github.com/lerocha/chinook-database/blob/master/LICENSE.md"
 }

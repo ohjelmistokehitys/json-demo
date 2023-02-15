@@ -1,5 +1,6 @@
 {
     "id": 168,
     "name": "Youssou N'Dour",
-    "albums": []
+    "albums": [],
+    "license": "https://github.com/lerocha/chinook-database/blob/master/LICENSE.md"
 }

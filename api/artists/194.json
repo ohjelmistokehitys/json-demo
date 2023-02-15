@@ -1,5 +1,6 @@
 {
     "id": 194,
     "name": "Sabotage E Instituto",
-    "albums": []
+    "albums": [],
+    "license": "https://github.com/lerocha/chinook-database/blob/master/LICENSE.md"
 }

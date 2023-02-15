@@ -1,5 +1,6 @@
 {
     "id": 61,
     "name": "Santana Feat. Everlast",
-    "albums": []
+    "albums": [],
+    "license": "https://github.com/lerocha/chinook-database/blob/master/LICENSE.md"
 }

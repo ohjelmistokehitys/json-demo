@@ -6,5 +6,6 @@
             "id": 9,
             "title": "Plays Metallica By Four Cellos"
         }
-    ]
+    ],
+    "license": "https://github.com/lerocha/chinook-database/blob/master/LICENSE.md"
 }

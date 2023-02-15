@@ -1,5 +1,6 @@
 {
     "id": 175,
     "name": "Jaguares",
-    "albums": []
+    "albums": [],
+    "license": "https://github.com/lerocha/chinook-database/blob/master/LICENSE.md"
 }

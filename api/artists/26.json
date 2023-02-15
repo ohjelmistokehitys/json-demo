@@ -1,5 +1,6 @@
 {
     "id": 26,
     "name": "Azymuth",
-    "albums": []
+    "albums": [],
+    "license": "https://github.com/lerocha/chinook-database/blob/master/LICENSE.md"
 }

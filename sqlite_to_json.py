@@ -7,6 +7,8 @@ from collections import namedtuple
 Artist = namedtuple('Artist', 'id, name')
 Album = namedtuple('Artist', 'id, title, artist_id')
 
+index_file: Path = Path(__file__).parent / 'api' / 'artists.json'
+
 
 def get_artists() -> list[Artist]:
     con = sqlite3.connect("Chinook_Sqlite.sqlite")
@@ -34,8 +36,8 @@ def write_index_file(artists: list[Artist]):
     '''
     Writes a single JSON file with an object, where artist ids are keys and names are values.
     '''
-    index_json = {id: name for id, name in artists}
-    index_file: Path = Path(__file__).parent / 'api' / 'artists.json'
+    index_json = {'artists': [{'id': id, 'name': name, 'url': f'api/artists/{id}.json'} for id, name in artists],
+                  'license': 'https://github.com/lerocha/chinook-database/blob/master/LICENSE.md'}
     index_file.write_text(json.dumps(index_json, indent=4))
 
 
@@ -48,13 +50,13 @@ def write_artists_files(artists: list[Artist], albums: list[Album]):
     }
 
     for artist in artists:
-        json_file = Path(__file__).parent / 'api' / \
-            'artists' / f'{artist.id}.json'
+        json_file = index_file.parent / 'artists' / f'{artist.id}.json'
         own_albums = albums_by_artists[artist.id]
         data = {
             'id': artist.id,
             'name': artist.name,
-            'albums': [{'id': album.id, 'title': album.title} for album in own_albums]
+            'albums': [{'id': album.id, 'title': album.title} for album in own_albums],
+            'license': 'https://github.com/lerocha/chinook-database/blob/master/LICENSE.md'
         }
         json_file.write_text(json.dumps(data, indent=4))
 

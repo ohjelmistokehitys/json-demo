@@ -1,5 +1,6 @@
 {
     "id": 129,
     "name": "Simply Red",
-    "albums": []
+    "albums": [],
+    "license": "https://github.com/lerocha/chinook-database/blob/master/LICENSE.md"
 }

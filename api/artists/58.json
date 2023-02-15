@@ -46,5 +46,6 @@
             "id": 66,
             "title": "The Battle Rages On"
         }
-    ]
+    ],
+    "license": "https://github.com/lerocha/chinook-database/blob/master/LICENSE.md"
 }

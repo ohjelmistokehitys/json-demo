@@ -1,5 +1,6 @@
 {
     "id": 45,
     "name": "Sandra De S\u00e1",
-    "albums": []
+    "albums": [],
+    "license": "https://github.com/lerocha/chinook-database/blob/master/LICENSE.md"
 }

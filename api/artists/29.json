@@ -1,5 +1,6 @@
 {
     "id": 29,
     "name": "Bebel Gilberto",
-    "albums": []
+    "albums": [],
+    "license": "https://github.com/lerocha/chinook-database/blob/master/LICENSE.md"
 }

@@ -10,5 +10,6 @@
             "id": 200,
             "title": "O Samba Pocon\u00e9"
         }
-    ]
+    ],
+    "license": "https://github.com/lerocha/chinook-database/blob/master/LICENSE.md"
 }

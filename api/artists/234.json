@@ -6,5 +6,6 @@
             "id": 300,
             "title": "Bach: The Brandenburg Concertos"
         }
-    ]
+    ],
+    "license": "https://github.com/lerocha/chinook-database/blob/master/LICENSE.md"
 }
