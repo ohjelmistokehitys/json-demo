@@ -1,0 +1,14 @@
+{
+    "id": 81,
+    "name": "Eric Clapton",
+    "albums": [
+        {
+            "id": 72,
+            "title": "The Cream Of Clapton"
+        },
+        {
+            "id": 73,
+            "title": "Unplugged"
+        }
+    ]
+}

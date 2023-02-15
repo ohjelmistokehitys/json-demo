@@ -1,0 +1,18 @@
+{
+    "id": 51,
+    "name": "Queen",
+    "albums": [
+        {
+            "id": 36,
+            "title": "Greatest Hits II"
+        },
+        {
+            "id": 185,
+            "title": "Greatest Hits I"
+        },
+        {
+            "id": 186,
+            "title": "News Of The World"
+        }
+    ]
+}

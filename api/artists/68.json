@@ -1,0 +1,18 @@
+{
+    "id": 68,
+    "name": "Miles Davis",
+    "albums": [
+        {
+            "id": 48,
+            "title": "The Essential Miles Davis [Disc 1]"
+        },
+        {
+            "id": 49,
+            "title": "The Essential Miles Davis [Disc 2]"
+        },
+        {
+            "id": 157,
+            "title": "Miles Ahead"
+        }
+    ]
+}

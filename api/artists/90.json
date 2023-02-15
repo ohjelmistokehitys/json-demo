@@ -1,0 +1,90 @@
+{
+    "id": 90,
+    "name": "Iron Maiden",
+    "albums": [
+        {
+            "id": 94,
+            "title": "A Matter of Life and Death"
+        },
+        {
+            "id": 95,
+            "title": "A Real Dead One"
+        },
+        {
+            "id": 96,
+            "title": "A Real Live One"
+        },
+        {
+            "id": 97,
+            "title": "Brave New World"
+        },
+        {
+            "id": 98,
+            "title": "Dance Of Death"
+        },
+        {
+            "id": 99,
+            "title": "Fear Of The Dark"
+        },
+        {
+            "id": 100,
+            "title": "Iron Maiden"
+        },
+        {
+            "id": 101,
+            "title": "Killers"
+        },
+        {
+            "id": 102,
+            "title": "Live After Death"
+        },
+        {
+            "id": 103,
+            "title": "Live At Donington 1992 (Disc 1)"
+        },
+        {
+            "id": 104,
+            "title": "Live At Donington 1992 (Disc 2)"
+        },
+        {
+            "id": 105,
+            "title": "No Prayer For The Dying"
+        },
+        {
+            "id": 106,
+            "title": "Piece Of Mind"
+        },
+        {
+            "id": 107,
+            "title": "Powerslave"
+        },
+        {
+            "id": 108,
+            "title": "Rock In Rio [CD1]"
+        },
+        {
+            "id": 109,
+            "title": "Rock In Rio [CD2]"
+        },
+        {
+            "id": 110,
+            "title": "Seventh Son of a Seventh Son"
+        },
+        {
+            "id": 111,
+            "title": "Somewhere in Time"
+        },
+        {
+            "id": 112,
+            "title": "The Number of The Beast"
+        },
+        {
+            "id": 113,
+            "title": "The X Factor"
+        },
+        {
+            "id": 114,
+            "title": "Virtual XI"
+        }
+    ]
+}

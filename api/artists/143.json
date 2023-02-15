@@ -1,0 +1,14 @@
+{
+    "id": 143,
+    "name": "The Tea Party",
+    "albums": [
+        {
+            "id": 219,
+            "title": "Tangents"
+        },
+        {
+            "id": 220,
+            "title": "Transmission"
+        }
+    ]
+}

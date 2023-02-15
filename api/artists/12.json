@@ -1,0 +1,14 @@
+{
+    "id": 12,
+    "name": "Black Sabbath",
+    "albums": [
+        {
+            "id": 16,
+            "title": "Black Sabbath"
+        },
+        {
+            "id": 17,
+            "title": "Black Sabbath Vol. 4 (Remaster)"
+        }
+    ]
+}

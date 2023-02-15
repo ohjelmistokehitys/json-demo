@@ -1,0 +1,62 @@
+{
+    "id": 22,
+    "name": "Led Zeppelin",
+    "albums": [
+        {
+            "id": 30,
+            "title": "BBC Sessions [Disc 1] [Live]"
+        },
+        {
+            "id": 44,
+            "title": "Physical Graffiti [Disc 1]"
+        },
+        {
+            "id": 127,
+            "title": "BBC Sessions [Disc 2] [Live]"
+        },
+        {
+            "id": 128,
+            "title": "Coda"
+        },
+        {
+            "id": 129,
+            "title": "Houses Of The Holy"
+        },
+        {
+            "id": 130,
+            "title": "In Through The Out Door"
+        },
+        {
+            "id": 131,
+            "title": "IV"
+        },
+        {
+            "id": 132,
+            "title": "Led Zeppelin I"
+        },
+        {
+            "id": 133,
+            "title": "Led Zeppelin II"
+        },
+        {
+            "id": 134,
+            "title": "Led Zeppelin III"
+        },
+        {
+            "id": 135,
+            "title": "Physical Graffiti [Disc 2]"
+        },
+        {
+            "id": 136,
+            "title": "Presence"
+        },
+        {
+            "id": 137,
+            "title": "The Song Remains The Same (Disc 1)"
+        },
+        {
+            "id": 138,
+            "title": "The Song Remains The Same (Disc 2)"
+        }
+    ]
+}

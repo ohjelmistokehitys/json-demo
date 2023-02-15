@@ -1,0 +1,26 @@
+{
+    "id": 118,
+    "name": "Pearl Jam",
+    "albums": [
+        {
+            "id": 178,
+            "title": "Live On Two Legs [Live]"
+        },
+        {
+            "id": 179,
+            "title": "Pearl Jam"
+        },
+        {
+            "id": 180,
+            "title": "Riot Act"
+        },
+        {
+            "id": 181,
+            "title": "Ten"
+        },
+        {
+            "id": 182,
+            "title": "Vs."
+        }
+    ]
+}

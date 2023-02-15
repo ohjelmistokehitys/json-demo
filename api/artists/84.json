@@ -1,0 +1,22 @@
+{
+    "id": 84,
+    "name": "Foo Fighters",
+    "albums": [
+        {
+            "id": 79,
+            "title": "In Your Honor [Disc 1]"
+        },
+        {
+            "id": 80,
+            "title": "In Your Honor [Disc 2]"
+        },
+        {
+            "id": 81,
+            "title": "One By One"
+        },
+        {
+            "id": 82,
+            "title": "The Colour And The Shape"
+        }
+    ]
+}

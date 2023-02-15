@@ -1,0 +1,14 @@
+{
+    "id": 147,
+    "name": "Battlestar Galactica",
+    "albums": [
+        {
+            "id": 226,
+            "title": "Battlestar Galactica: The Story So Far"
+        },
+        {
+            "id": 227,
+            "title": "Battlestar Galactica, Season 3"
+        }
+    ]
+}

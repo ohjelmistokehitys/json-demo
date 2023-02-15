@@ -1,0 +1,10 @@
+{
+    "id": 5,
+    "name": "Alice In Chains",
+    "albums": [
+        {
+            "id": 7,
+            "title": "Facelift"
+        }
+    ]
+}

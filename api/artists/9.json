@@ -1,0 +1,10 @@
+{
+    "id": 9,
+    "name": "BackBeat",
+    "albums": [
+        {
+            "id": 12,
+            "title": "BackBeat Soundtrack"
+        }
+    ]
+}

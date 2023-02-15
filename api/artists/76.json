@@ -1,0 +1,14 @@
+{
+    "id": 76,
+    "name": "Creedence Clearwater Revival",
+    "albums": [
+        {
+            "id": 54,
+            "title": "Chronicle, Vol. 1"
+        },
+        {
+            "id": 55,
+            "title": "Chronicle, Vol. 2"
+        }
+    ]
+}

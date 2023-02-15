@@ -1,0 +1,14 @@
+{
+    "id": 1,
+    "name": "AC/DC",
+    "albums": [
+        {
+            "id": 1,
+            "title": "For Those About To Rock We Salute You"
+        },
+        {
+            "id": 4,
+            "title": "Let There Be Rock"
+        }
+    ]
+}

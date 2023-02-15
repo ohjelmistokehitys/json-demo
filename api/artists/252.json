@@ -1,0 +1,14 @@
+{
+    "id": 252,
+    "name": "Amy Winehouse",
+    "albums": [
+        {
+            "id": 321,
+            "title": "Back to Black"
+        },
+        {
+            "id": 322,
+            "title": "Frank"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": 59,
+    "name": "Santana",
+    "albums": [
+        {
+            "id": 46,
+            "title": "Supernatural"
+        },
+        {
+            "id": 197,
+            "title": "Santana - As Years Go By"
+        },
+        {
+            "id": 198,
+            "title": "Santana Live"
+        }
+    ]
+}

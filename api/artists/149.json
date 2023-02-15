@@ -1,0 +1,22 @@
+{
+    "id": 149,
+    "name": "Lost",
+    "albums": [
+        {
+            "id": 229,
+            "title": "Lost, Season 3"
+        },
+        {
+            "id": 230,
+            "title": "Lost, Season 1"
+        },
+        {
+            "id": 231,
+            "title": "Lost, Season 2"
+        },
+        {
+            "id": 261,
+            "title": "LOST, Season 4"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "id": 152,
+    "name": "Van Halen",
+    "albums": [
+        {
+            "id": 242,
+            "title": "Diver Down"
+        },
+        {
+            "id": 243,
+            "title": "The Best Of Van Halen, Vol. I"
+        },
+        {
+            "id": 244,
+            "title": "Van Halen"
+        },
+        {
+            "id": 245,
+            "title": "Van Halen III"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "id": 4,
+    "name": "Alanis Morissette",
+    "albums": [
+        {
+            "id": 6,
+            "title": "Jagged Little Pill"
+        }
+    ]
+}

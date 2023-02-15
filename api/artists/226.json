@@ -1,0 +1,18 @@
+{
+    "id": 226,
+    "name": "Eugene Ormandy",
+    "albums": [
+        {
+            "id": 292,
+            "title": "Holst: The Planets, Op. 32 & Vaughan Williams: Fantasies"
+        },
+        {
+            "id": 311,
+            "title": "Strauss: Waltzes"
+        },
+        {
+            "id": 343,
+            "title": "Respighi:Pines of Rome"
+        }
+    ]
+}

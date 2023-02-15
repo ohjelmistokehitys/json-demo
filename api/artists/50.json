@@ -1,0 +1,46 @@
+{
+    "id": 50,
+    "name": "Metallica",
+    "albums": [
+        {
+            "id": 35,
+            "title": "Garage Inc. (Disc 1)"
+        },
+        {
+            "id": 148,
+            "title": "Black Album"
+        },
+        {
+            "id": 149,
+            "title": "Garage Inc. (Disc 2)"
+        },
+        {
+            "id": 150,
+            "title": "Kill 'Em All"
+        },
+        {
+            "id": 151,
+            "title": "Load"
+        },
+        {
+            "id": 152,
+            "title": "Master Of Puppets"
+        },
+        {
+            "id": 153,
+            "title": "ReLoad"
+        },
+        {
+            "id": 154,
+            "title": "Ride The Lightning"
+        },
+        {
+            "id": 155,
+            "title": "St. Anger"
+        },
+        {
+            "id": 156,
+            "title": "...And Justice For All"
+        }
+    ]
+}

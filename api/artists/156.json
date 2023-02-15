@@ -1,0 +1,18 @@
+{
+    "id": 156,
+    "name": "The Office",
+    "albums": [
+        {
+            "id": 249,
+            "title": "The Office, Season 1"
+        },
+        {
+            "id": 250,
+            "title": "The Office, Season 2"
+        },
+        {
+            "id": 251,
+            "title": "The Office, Season 3"
+        }
+    ]
+}

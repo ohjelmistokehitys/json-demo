@@ -1,0 +1,14 @@
+{
+    "id": 245,
+    "name": "Michael Tilson Thomas & San Francisco Symphony",
+    "albums": [
+        {
+            "id": 310,
+            "title": "Prokofiev: Romeo & Juliet"
+        },
+        {
+            "id": 312,
+            "title": "Berlioz: Symphonie Fantastique"
+        }
+    ]
+}

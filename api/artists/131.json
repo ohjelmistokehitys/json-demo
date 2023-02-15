@@ -1,0 +1,14 @@
+{
+    "id": 131,
+    "name": "Smashing Pumpkins",
+    "albums": [
+        {
+            "id": 201,
+            "title": "Judas 0: B-Sides and Rarities"
+        },
+        {
+            "id": 202,
+            "title": "Rotten Apples: Greatest Hits"
+        }
+    ]
+}

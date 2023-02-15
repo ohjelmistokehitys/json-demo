@@ -1,0 +1,18 @@
+{
+    "id": 142,
+    "name": "The Rolling Stones",
+    "albums": [
+        {
+            "id": 216,
+            "title": "Hot Rocks, 1964-1971 (Disc 1)"
+        },
+        {
+            "id": 217,
+            "title": "No Security"
+        },
+        {
+            "id": 218,
+            "title": "Voodoo Lounge"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": 8,
+    "name": "Audioslave",
+    "albums": [
+        {
+            "id": 10,
+            "title": "Audioslave"
+        },
+        {
+            "id": 11,
+            "title": "Out Of Exile"
+        },
+        {
+            "id": 271,
+            "title": "Revelations"
+        }
+    ]
+}

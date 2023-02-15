@@ -1,0 +1,30 @@
+{
+    "id": 114,
+    "name": "Ozzy Osbourne",
+    "albums": [
+        {
+            "id": 170,
+            "title": "Bark at the Moon (Remastered)"
+        },
+        {
+            "id": 171,
+            "title": "Blizzard of Ozz"
+        },
+        {
+            "id": 172,
+            "title": "Diary of a Madman (Remastered)"
+        },
+        {
+            "id": 173,
+            "title": "No More Tears (Remastered)"
+        },
+        {
+            "id": 174,
+            "title": "Tribute"
+        },
+        {
+            "id": 256,
+            "title": "Speak of the Devil"
+        }
+    ]
+}

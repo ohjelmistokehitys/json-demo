@@ -1,0 +1,22 @@
+{
+    "id": 82,
+    "name": "Faith No More",
+    "albums": [
+        {
+            "id": 74,
+            "title": "Album Of The Year"
+        },
+        {
+            "id": 75,
+            "title": "Angel Dust"
+        },
+        {
+            "id": 76,
+            "title": "King For A Day Fool For A Lifetime"
+        },
+        {
+            "id": 77,
+            "title": "The Real Thing"
+        }
+    ]
+}

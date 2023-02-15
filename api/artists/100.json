@@ -1,0 +1,10 @@
+{
+    "id": 100,
+    "name": "Lenny Kravitz",
+    "albums": [
+        {
+            "id": 141,
+            "title": "Greatest Hits"
+        }
+    ]
+}

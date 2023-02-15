@@ -1,0 +1,22 @@
+{
+    "id": 21,
+    "name": "Various Artists",
+    "albums": [
+        {
+            "id": 29,
+            "title": "Ax\u00e9 Bahia 2001"
+        },
+        {
+            "id": 32,
+            "title": "Carnaval 2001"
+        },
+        {
+            "id": 45,
+            "title": "Sambas De Enredo 2001"
+        },
+        {
+            "id": 53,
+            "title": "Vozes do MPB"
+        }
+    ]
+}

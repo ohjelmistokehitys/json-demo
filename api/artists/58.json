@@ -1,0 +1,50 @@
+{
+    "id": 58,
+    "name": "Deep Purple",
+    "albums": [
+        {
+            "id": 43,
+            "title": "MK III The Final Concerts [Disc 1]"
+        },
+        {
+            "id": 50,
+            "title": "The Final Concerts (Disc 2)"
+        },
+        {
+            "id": 58,
+            "title": "Come Taste The Band"
+        },
+        {
+            "id": 59,
+            "title": "Deep Purple In Rock"
+        },
+        {
+            "id": 60,
+            "title": "Fireball"
+        },
+        {
+            "id": 61,
+            "title": "Knocking at Your Back Door: The Best Of Deep Purple in the 80's"
+        },
+        {
+            "id": 62,
+            "title": "Machine Head"
+        },
+        {
+            "id": 63,
+            "title": "Purpendicular"
+        },
+        {
+            "id": 64,
+            "title": "Slaves And Masters"
+        },
+        {
+            "id": 65,
+            "title": "Stormbringer"
+        },
+        {
+            "id": 66,
+            "title": "The Battle Rages On"
+        }
+    ]
+}

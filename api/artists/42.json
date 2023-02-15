@@ -1,0 +1,14 @@
+{
+    "id": 42,
+    "name": "Milton Nascimento",
+    "albums": [
+        {
+            "id": 158,
+            "title": "Milton Nascimento Ao Vivo"
+        },
+        {
+            "id": 159,
+            "title": "Minas"
+        }
+    ]
+}

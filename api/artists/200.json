@@ -1,0 +1,10 @@
+{
+    "id": 200,
+    "name": "The Posies",
+    "albums": [
+        {
+            "id": 265,
+            "title": "Every Kind of Light"
+        }
+    ]
+}

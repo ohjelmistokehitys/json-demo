@@ -1,0 +1,18 @@
+{
+    "id": 88,
+    "name": "Guns N' Roses",
+    "albums": [
+        {
+            "id": 90,
+            "title": "Appetite for Destruction"
+        },
+        {
+            "id": 91,
+            "title": "Use Your Illusion I"
+        },
+        {
+            "id": 92,
+            "title": "Use Your Illusion II"
+        }
+    ]
+}

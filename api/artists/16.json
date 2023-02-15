@@ -1,0 +1,14 @@
+{
+    "id": 16,
+    "name": "Caetano Veloso",
+    "albums": [
+        {
+            "id": 21,
+            "title": "Prenda Minha"
+        },
+        {
+            "id": 22,
+            "title": "Sozinho Remix Ao Vivo"
+        }
+    ]
+}

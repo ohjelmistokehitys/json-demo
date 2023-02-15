@@ -1,0 +1,14 @@
+{
+    "id": 145,
+    "name": "Tim Maia",
+    "albums": [
+        {
+            "id": 222,
+            "title": "Serie Sem Limite (Disc 1)"
+        },
+        {
+            "id": 223,
+            "title": "Serie Sem Limite (Disc 2)"
+        }
+    ]
+}

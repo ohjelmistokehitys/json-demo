@@ -1,0 +1,10 @@
+{
+    "id": 94,
+    "name": "Jimi Hendrix",
+    "albums": [
+        {
+            "id": 120,
+            "title": "Are You Experienced?"
+        }
+    ]
+}

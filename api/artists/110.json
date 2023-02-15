@@ -1,0 +1,14 @@
+{
+    "id": 110,
+    "name": "Nirvana",
+    "albums": [
+        {
+            "id": 163,
+            "title": "From The Muddy Banks Of The Wishkah [Live]"
+        },
+        {
+            "id": 164,
+            "title": "Nevermind"
+        }
+    ]
+}

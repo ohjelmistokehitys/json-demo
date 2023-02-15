@@ -1,0 +1,18 @@
+{
+    "id": 127,
+    "name": "Red Hot Chili Peppers",
+    "albums": [
+        {
+            "id": 193,
+            "title": "Blood Sugar Sex Magik"
+        },
+        {
+            "id": 194,
+            "title": "By The Way"
+        },
+        {
+            "id": 195,
+            "title": "Californication"
+        }
+    ]
+}

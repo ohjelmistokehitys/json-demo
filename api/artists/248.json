@@ -1,0 +1,18 @@
+{
+    "id": 248,
+    "name": "Berliner Philharmoniker & Herbert Von Karajan",
+    "albums": [
+        {
+            "id": 316,
+            "title": "Grieg: Peer Gynt Suites & Sibelius: Pell\u00e9as et M\u00e9lisande"
+        },
+        {
+            "id": 320,
+            "title": "Mozart: Symphonies Nos. 40 & 41"
+        },
+        {
+            "id": 336,
+            "title": "Prokofiev: Symphony No.5 & Stravinksy: Le Sacre Du Printemps"
+        }
+    ]
+}
